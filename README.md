@@ -1,2 +1,3 @@
 # Data-Scince-Assignment
-Excelr Data Science Asiignment
+Excelr Data Science Assignment
+
